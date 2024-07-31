@@ -1,0 +1,1 @@
+export const navBtn = ['Equipment', 'About us', 'Blog'];
